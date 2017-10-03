@@ -11,3 +11,10 @@ Password: sparr0wHawk!
 
 ## Examples
 
+### String property as placeholder text in an input-element 
+
+![Example of updating the placholder text in an input-element](example-searchpage-placeholdertext.gif)
+
+Interesting files:
+* Models/Pages/SearchPage.cs
+* Views/SearchPage/Index.cshtml
